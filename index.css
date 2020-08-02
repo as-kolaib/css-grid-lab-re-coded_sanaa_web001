@@ -9,7 +9,7 @@ body {
   width: 100vw;
   /* your properties here */
   grid-row-gap: 1em;
-  
+  grid-auto-columns: 
 }
 
 .grid-item {
