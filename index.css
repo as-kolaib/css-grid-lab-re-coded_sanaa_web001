@@ -10,7 +10,7 @@ body {
   /* your properties here */
   grid-row-gap: 1em;
   grid-auto-rows: minmax(40px.auto);
-  grid-template-columns: 
+  grid-template-columns: repeat()
 }
 
 .grid-item {
