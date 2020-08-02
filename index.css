@@ -9,7 +9,8 @@ body {
   width: 100vw;
   /* your properties here */
   grid-row-gap: 1em;
-  grid-auto-rows: mixmam(14px.auto): 
+  grid-auto-rows: minmax(40px.auto);
+  grid-template-columns: 
 }
 
 .grid-item {
